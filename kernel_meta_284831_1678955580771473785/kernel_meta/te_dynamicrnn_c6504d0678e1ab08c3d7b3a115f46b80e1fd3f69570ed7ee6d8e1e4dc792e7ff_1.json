@@ -1,0 +1,32 @@
+{
+    "KBHit":false,
+    "binFileName":"te_dynamicrnn_c6504d0678e1ab08c3d7b3a115f46b80e1fd3f69570ed7ee6d8e1e4dc792e7ff_1",
+    "binFileSuffix":".o",
+    "blockDim":1,
+    "kernelName":"te_dynamicrnn_c6504d0678e1ab08c3d7b3a115f46b80e1fd3f69570ed7ee6d8e1e4dc792e7ff_1__kernel0",
+    "magic":"RT_DEV_BINARY_MAGIC_ELF",
+    "opParaSize":0,
+    "parameters":[
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+    ],
+    "sha256":"8d012e88937de55f460ac7b70c874abd082488f7d215859301fbd0e2ab464328",
+    "workspace":{
+        "num":1,
+        "size":[
+            1024
+        ]
+    }
+}

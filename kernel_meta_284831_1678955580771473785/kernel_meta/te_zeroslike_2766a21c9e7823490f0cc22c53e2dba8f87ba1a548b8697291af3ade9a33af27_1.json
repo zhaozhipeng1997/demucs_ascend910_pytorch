@@ -1,0 +1,14 @@
+{
+    "batchBindOnly":1,
+    "binFileName":"te_zeroslike_2766a21c9e7823490f0cc22c53e2dba8f87ba1a548b8697291af3ade9a33af27_1",
+    "binFileSuffix":".o",
+    "blockDim":30,
+    "kernelName":"te_zeroslike_2766a21c9e7823490f0cc22c53e2dba8f87ba1a548b8697291af3ade9a33af27_1__kernel0",
+    "magic":"RT_DEV_BINARY_MAGIC_ELF",
+    "opParaSize":0,
+    "parameters":[
+        0,
+        0
+    ],
+    "sha256":"8201c54ebb05fb2d318891cfc342d85b3426ec5e3455bc69e1226cd9cf7f817f"
+}

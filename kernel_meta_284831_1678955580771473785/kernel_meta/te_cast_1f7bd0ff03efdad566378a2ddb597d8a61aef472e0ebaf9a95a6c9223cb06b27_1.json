@@ -1,0 +1,13 @@
+{
+    "binFileName":"te_cast_1f7bd0ff03efdad566378a2ddb597d8a61aef472e0ebaf9a95a6c9223cb06b27_1",
+    "binFileSuffix":".o",
+    "blockDim":30,
+    "kernelName":"te_cast_1f7bd0ff03efdad566378a2ddb597d8a61aef472e0ebaf9a95a6c9223cb06b27_1__kernel0",
+    "magic":"RT_DEV_BINARY_MAGIC_ELF",
+    "opParaSize":0,
+    "parameters":[
+        0,
+        0
+    ],
+    "sha256":"26ec05e759556c1c9f3dcb3f3faf69a2c4800333c83ec520833ce87d12b96960"
+}

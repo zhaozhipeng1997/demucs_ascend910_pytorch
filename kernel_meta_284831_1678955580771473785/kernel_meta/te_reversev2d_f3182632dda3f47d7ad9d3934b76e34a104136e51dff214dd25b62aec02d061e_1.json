@@ -1,0 +1,13 @@
+{
+    "binFileName":"te_reversev2d_f3182632dda3f47d7ad9d3934b76e34a104136e51dff214dd25b62aec02d061e_1",
+    "binFileSuffix":".o",
+    "blockDim":30,
+    "kernelName":"te_reversev2d_f3182632dda3f47d7ad9d3934b76e34a104136e51dff214dd25b62aec02d061e_1__kernel0",
+    "magic":"RT_DEV_BINARY_MAGIC_ELF",
+    "opParaSize":0,
+    "parameters":[
+        0,
+        0
+    ],
+    "sha256":"55f0c6e153af94c65cf733c7a64e495881ba903e2c077ab3bb701a7bfa7afc85"
+}

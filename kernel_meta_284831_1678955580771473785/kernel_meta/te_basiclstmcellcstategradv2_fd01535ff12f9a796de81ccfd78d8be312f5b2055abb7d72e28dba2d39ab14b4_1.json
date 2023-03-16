@@ -1,0 +1,22 @@
+{
+    "binFileName":"te_basiclstmcellcstategradv2_fd01535ff12f9a796de81ccfd78d8be312f5b2055abb7d72e28dba2d39ab14b4_1",
+    "binFileSuffix":".o",
+    "blockDim":30,
+    "kernelName":"te_basiclstmcellcstategradv2_fd01535ff12f9a796de81ccfd78d8be312f5b2055abb7d72e28dba2d39ab14b4_1__kernel0",
+    "magic":"RT_DEV_BINARY_MAGIC_ELF",
+    "opParaSize":0,
+    "parameters":[
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+    ],
+    "sha256":"a69268cb2735b3aba242af4056a0e3530624a49227c9c9f9d972007dc53076f2"
+}

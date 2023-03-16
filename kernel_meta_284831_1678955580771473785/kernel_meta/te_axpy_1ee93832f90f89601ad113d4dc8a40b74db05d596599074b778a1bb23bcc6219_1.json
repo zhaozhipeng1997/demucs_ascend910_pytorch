@@ -1,0 +1,15 @@
+{
+    "batchBindOnly":1,
+    "binFileName":"te_axpy_1ee93832f90f89601ad113d4dc8a40b74db05d596599074b778a1bb23bcc6219_1",
+    "binFileSuffix":".o",
+    "blockDim":30,
+    "kernelName":"te_axpy_1ee93832f90f89601ad113d4dc8a40b74db05d596599074b778a1bb23bcc6219_1__kernel0",
+    "magic":"RT_DEV_BINARY_MAGIC_ELF",
+    "opParaSize":0,
+    "parameters":[
+        0,
+        0,
+        0
+    ],
+    "sha256":"7e5cb969f45a1438db6aab1bbd180b302d910ab813097741ac18e7079df160ea"
+}

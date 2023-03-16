@@ -1,0 +1,16 @@
+{
+    "KBHit":false,
+    "binFileName":"te_conv2d_852565eac73bf99a28599febc2ed571c67a89dc04649eb05ea20114ae11bc8a8_1",
+    "binFileSuffix":".o",
+    "blockDim":16,
+    "kernelName":"te_conv2d_852565eac73bf99a28599febc2ed571c67a89dc04649eb05ea20114ae11bc8a8_1__kernel0",
+    "magic":"RT_DEV_BINARY_MAGIC_ELF",
+    "opParaSize":0,
+    "parameters":[
+        0,
+        0,
+        0,
+        0
+    ],
+    "sha256":"92dc65971a7929bc9055533a6537e4204d8e5472598f281950993adff7803931"
+}

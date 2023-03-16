@@ -1,0 +1,16 @@
+{
+    "KBHit":false,
+    "batchBindOnly":1,
+    "binFileName":"te_mul_1948751777d02529d893fcfe2db744b86cf668d38646ff076aa4f29419566ebd_1",
+    "binFileSuffix":".o",
+    "blockDim":1,
+    "kernelName":"te_mul_1948751777d02529d893fcfe2db744b86cf668d38646ff076aa4f29419566ebd_1__kernel0",
+    "magic":"RT_DEV_BINARY_MAGIC_ELF",
+    "opParaSize":0,
+    "parameters":[
+        0,
+        0,
+        0
+    ],
+    "sha256":"eb7608a55203ae830e9af0f964853a7148f6ee484df27ecdcb0ff053850f46e4"
+}

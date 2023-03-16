@@ -1,0 +1,15 @@
+{
+    "binFileName":"te_l1lossgrad_39c9b678fe6004f6ff963e091f74fb41e67a9a7a0f1815cc4789c4389df890da_1",
+    "binFileSuffix":".o",
+    "blockDim":16,
+    "kernelName":"te_l1lossgrad_39c9b678fe6004f6ff963e091f74fb41e67a9a7a0f1815cc4789c4389df890da_1__kernel0",
+    "magic":"RT_DEV_BINARY_MAGIC_ELF",
+    "opParaSize":0,
+    "parameters":[
+        0,
+        0,
+        0,
+        0
+    ],
+    "sha256":"768b3c01842fcfb171adeb9b802d8cdd0bfabbd44d60e56a41445891d252107d"
+}

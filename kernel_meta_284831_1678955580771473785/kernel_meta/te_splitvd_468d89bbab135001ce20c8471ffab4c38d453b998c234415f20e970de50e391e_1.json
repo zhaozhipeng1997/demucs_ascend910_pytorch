@@ -1,0 +1,14 @@
+{
+    "binFileName":"te_splitvd_468d89bbab135001ce20c8471ffab4c38d453b998c234415f20e970de50e391e_1",
+    "binFileSuffix":".o",
+    "blockDim":30,
+    "kernelName":"te_splitvd_468d89bbab135001ce20c8471ffab4c38d453b998c234415f20e970de50e391e_1__kernel0",
+    "magic":"RT_DEV_BINARY_MAGIC_ELF",
+    "opParaSize":0,
+    "parameters":[
+        0,
+        0,
+        0
+    ],
+    "sha256":"10b3934c1b1361e1a17765ce12626b42c5f51eb4ddcf311c701ae7ebc23aec59"
+}

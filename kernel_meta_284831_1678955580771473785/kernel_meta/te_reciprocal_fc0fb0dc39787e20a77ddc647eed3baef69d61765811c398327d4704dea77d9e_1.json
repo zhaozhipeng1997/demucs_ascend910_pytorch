@@ -1,0 +1,14 @@
+{
+    "batchBindOnly":1,
+    "binFileName":"te_reciprocal_fc0fb0dc39787e20a77ddc647eed3baef69d61765811c398327d4704dea77d9e_1",
+    "binFileSuffix":".o",
+    "blockDim":1,
+    "kernelName":"te_reciprocal_fc0fb0dc39787e20a77ddc647eed3baef69d61765811c398327d4704dea77d9e_1__kernel0",
+    "magic":"RT_DEV_BINARY_MAGIC_ELF",
+    "opParaSize":0,
+    "parameters":[
+        0,
+        0
+    ],
+    "sha256":"3acdf5b3637b52b8de61b1a3e0af2a48010def2a5b910b7a565e0254c41e240a"
+}

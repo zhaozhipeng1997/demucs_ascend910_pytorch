@@ -1,0 +1,11 @@
+Train:
+
+python -m demucs -b 4  --musdb ./musdb18/ --channels 64 # Demucs
+python -m demucs -b 4  --musdb ./MUSDB_PATH --tasnet --samples=80000 --split_valid # Conv-Tasnet
+
+
+python run.py --musdb ./musdb18/
+
+python -m demucs -b 1  -d "cuda" --musdb ./musdb18hq/
+Test:
+python3 run.py

@@ -1,0 +1,13 @@
+{
+    "binFileName":"te_npuclearfloatstatus_0032e586a41782951d8cae255db6249ab63902499797c3f4fc400081c33cbad4_1",
+    "binFileSuffix":".o",
+    "blockDim":30,
+    "kernelName":"te_npuclearfloatstatus_0032e586a41782951d8cae255db6249ab63902499797c3f4fc400081c33cbad4_1__kernel0",
+    "magic":"RT_DEV_BINARY_MAGIC_ELF",
+    "opParaSize":0,
+    "parameters":[
+        0,
+        0
+    ],
+    "sha256":"5b9fb247faec09721a7f04c74dda7b9e0a39245991bfa5ae9e0119ab2b2b2027"
+}

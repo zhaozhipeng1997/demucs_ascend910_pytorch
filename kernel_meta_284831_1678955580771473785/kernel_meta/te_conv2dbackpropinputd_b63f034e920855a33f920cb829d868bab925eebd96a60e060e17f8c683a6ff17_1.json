@@ -1,0 +1,16 @@
+{
+    "KBHit":false,
+    "binFileName":"te_conv2dbackpropinputd_b63f034e920855a33f920cb829d868bab925eebd96a60e060e17f8c683a6ff17_1",
+    "binFileSuffix":".o",
+    "blockDim":16,
+    "cache_read_mode":0,
+    "kernelName":"te_conv2dbackpropinputd_b63f034e920855a33f920cb829d868bab925eebd96a60e060e17f8c683a6ff17_1__kernel0",
+    "magic":"RT_DEV_BINARY_MAGIC_ELF",
+    "opParaSize":0,
+    "parameters":[
+        0,
+        0,
+        0
+    ],
+    "sha256":"9801083bdac3d46f7a9f961443cbe51e30bc10d23d7863f5acddbf8c14301ffc"
+}

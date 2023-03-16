@@ -1,0 +1,14 @@
+{
+    "binFileName":"te_lploss_fa7c93769cab0b58fc16884583d98690f75b5d221c629d68578e630b8365f4e1_1",
+    "binFileSuffix":".o",
+    "blockDim":1,
+    "kernelName":"te_lploss_fa7c93769cab0b58fc16884583d98690f75b5d221c629d68578e630b8365f4e1_1__kernel0",
+    "magic":"RT_DEV_BINARY_MAGIC_ELF",
+    "opParaSize":0,
+    "parameters":[
+        0,
+        0,
+        0
+    ],
+    "sha256":"54e30410420de5142dc3cd6de469ba4c9810870afd396409fe7c8327b6b170db"
+}
